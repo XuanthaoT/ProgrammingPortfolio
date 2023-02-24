@@ -1,6 +1,6 @@
-#2022-2023 Programming Projects
+# 2022-2023 Programming Projects
 
- ##Processing Projects
+## Processing Projects
  
- ###Calculator
+### Calculator
  
