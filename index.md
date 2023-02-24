@@ -3,4 +3,4 @@
 ## Processing Projects
  
 ### Calculator
-![running calculator](?raw=true)
+![running calculator](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/images/calc.png?raw=true)
