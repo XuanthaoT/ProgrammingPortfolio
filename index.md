@@ -3,7 +3,7 @@
 ## Processing Projects
  
 ### Calculator
-<img src="[https://your-image-url.type](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/images/calc.png)" width="70" height="70">
+![running calculator](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/images/calc.png?raw=true)
 
 ### History Timeline
 ![running timeline](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/images/timeline.png?raw=true)
