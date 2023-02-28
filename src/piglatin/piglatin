@@ -1,0 +1,7 @@
+# a short and simple translator
+fol = input("Enter a word:")
+fol1 = fol.lower()
+str(len(fol1))
+firstLetter = fol1[0]
+lastPart = fol1[1:]
+print (lastPart+firstLetter+'ay')
