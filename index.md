@@ -19,3 +19,9 @@
 ![running space](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/images/spacegame.png?raw=true)
 
 [Source Code](https://github.com/XuanthaoT/ProgrammingPortfolio/tree/main/src/spacegame)
+
+### Pig Latin
+##### Feb 14, 2023
+A simple program that acts like a translator for pig latin
+
+[Source Code] (https://github.com/XuanthaoT/ProgrammingPortfolio/tree/main/src/piglatin)
