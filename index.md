@@ -24,4 +24,4 @@
 ##### Feb 14, 2023
 A simple program that acts like a translator for pig latin
 
-[Source Code] (https://github.com/XuanthaoT/ProgrammingPortfolio/tree/main/src/piglatin)
+[Source Code](https://github.com/XuanthaoT/ProgrammingPortfolio/tree/main/src/piglatin)
