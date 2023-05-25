@@ -49,7 +49,7 @@ This program generates a random made-up word along with a definition using prefi
 ##### Feb 2, 2023
 This is a game that generates a random number for the user to guess
 
-[Source Code](https://github.com/XuanthaoT/ProgrammingPortfolio/tree/main/src/piglatin)
+[Source Code](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/src/NumberGuessing/NumberGuessing.txt)
 
 ***
 
