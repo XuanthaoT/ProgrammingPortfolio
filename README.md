@@ -31,3 +31,4 @@ A simple program that acts like a translator for pig latin
 ##### Snake
 I worked as a UX/UI designer in my team
 [Link to group repository](https://github.com/LemScoot/Group-Project-for-Programming-2023/tree/main)
+![running snake](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/images/snake.png)
