@@ -1,0 +1,31 @@
+import random
+listpre = ['anti','de','dis','fore','inter','mid','mis','non','over','pre','re','semi','sub','super','trans','un','under','en','in','il']
+
+listpreDef = ['against','the opposite way','not','before','in between','in the middle','wrongly','not','over','before','again','in half','under','above','across','not','under','cause to','in','not' ]
+
+listroot = ['ambi','aqua','aud','bio','cent','circum','dict','fac','form','fort','fract','tele','jud','mal','mono','mit','port','rupt','sent','struct']
+listrootDef = ['both','water','hearing','one hundred','around','saying','doing','shape','strength','breaking','far off', 'part of','judging','bad','one','to send','carrying','breaking','feeling','building']
+
+listsuff = ['able','ible','al','ed','en','er','est','ful','ic','ing','ion','tion','ation','ity','ty','ness','ly','ment','ous','y']
+listsuffDef = ['is','can be','having characteristics of','past tense','made of','more','the most','full of','having characteristics of','act of','act of','act of','act of','state of','state of','state of','how something is','state of','having qualities of','characterized by']
+
+
+amt = int(input('welcome! type in a number for how many words you want generated:'))
+
+while (amt>20):
+  print ('choose a number less than or equal to 20!')
+  amt = int(input('type in a number for how many words you want generated:'))
+else:
+  for x in range(amt):
+   num1 = random.randint(0,19)
+   pre = listpre[num1]
+   preDef = listpreDef[num1]
+   num2 = random.randint(0,19)
+   root = listroot[num2]
+   rootDef = listrootDef[num2]
+   num3 = random.randint(0,19)
+   suff = listsuff[num3]
+   suffDef = listsuffDef[num3]
+   print (pre+root+suff+': '+ suffDef + ' ' +rootDef + ' ' + preDef)
+  
+  
