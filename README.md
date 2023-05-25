@@ -1,4 +1,5 @@
-# 2022-2023 Programming Projects
+# Programming I Portfolio
+##| Xuanthao Tran | Contact Info: [Email](mailto:xuxuanthao@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## Processing Projects
  
