@@ -41,7 +41,7 @@ A simple program that acts like a translator for pig latin
 ##### Apr 6, 2023
 This program generates a random made-up word along with a definition using prefixes, roots, and prefixes 
 
-[Source Code](https://github.com/XuanthaoT/ProgrammingPortfolio/tree/main/src/piglatin)
+[Source Code](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/src/WordApp/WordApp.txt)
 
 ***
 
