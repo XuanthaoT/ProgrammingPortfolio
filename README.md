@@ -1,5 +1,5 @@
 # Programming I Portfolio
-## | Xuanthao Tran | Contact Info: [Email](mailto:xuxuanthao@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+## Xuanthao Tran | Contact Info: [Email](mailto:xuxuanthao@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## Processing Projects
  
@@ -26,3 +26,8 @@
 A simple program that acts like a translator for pig latin
 
 [Source Code](https://github.com/XuanthaoT/ProgrammingPortfolio/tree/main/src/piglatin)
+
+### Programming Group Project 
+##### Snake
+I worked as a UX/UI designer in my team
+[Link to group repository](https://github.com/LemScoot/Group-Project-for-Programming-2023/tree/main)
