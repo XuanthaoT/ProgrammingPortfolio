@@ -37,6 +37,22 @@ A simple program that acts like a translator for pig latin
 
 ***
 
+### Random Word Generator 
+##### Apr 6, 2023
+This program generates a random made-up word along with a definition using prefixes, roots, and prefixes 
+
+[Source Code](https://github.com/XuanthaoT/ProgrammingPortfolio/tree/main/src/piglatin)
+
+***
+
+### Number Guessing Game
+##### Feb 2, 2023
+This is a game that generates a random number for the user to guess
+
+[Source Code](https://github.com/XuanthaoT/ProgrammingPortfolio/tree/main/src/piglatin)
+
+***
+
 ### Programming Group Project 
 ##### Snake
 I worked as a UX/UI designer in my team
