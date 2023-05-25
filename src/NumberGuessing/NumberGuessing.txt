@@ -1,0 +1,20 @@
+import random
+randNum = random.randrange(1, 100)
+attempt = 1
+print('Welcome to the guessing game! Guess a number between 1 and 100:')
+guess = int(input("Enter a guess:"))
+while True:
+  if (guess == randNum and attempt >1):
+    print('Congrats! You got it in', attempt, 'attempts!')
+    break
+  elif (guess > randNum):
+    print('Too high! Try again!')
+    attempt = attempt + 1
+    guess = int(input("Enter a guess:"))
+  elif (guess == randNum and attempt < 2):
+    print ('Are you cheating? You got it in 1 try!!!')
+    break
+  else:
+    print('Too low! Try again!')
+    attempt = attempt + 1
+    guess = int(input("Enter a guess:"))
