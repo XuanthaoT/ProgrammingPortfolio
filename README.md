@@ -64,4 +64,4 @@ I worked as a UX/UI designer in my team
 ***
 
 ### Python Certification 
-[Certification](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/images/UT_USBE_Certificate.pdf)
+[Certification PDF](https://github.com/XuanthaoT/ProgrammingPortfolio/blob/main/images/UT_USBE_Certificate.pdf)
